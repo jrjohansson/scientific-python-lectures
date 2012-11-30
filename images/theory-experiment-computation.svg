@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="164.94188"
+   height="164.04639"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="theory-experiment-computation.pdf"
+   inkscape:export-filename="theory-experiment-computation.png"
+   inkscape:export-xdpi="436.48999"
+   inkscape:export-ydpi="436.48999">
+  <defs
+     id="defs4">
+    <path
+       sodipodi:end="2.6179939"
+       sodipodi:start="0.55850536"
+       d="m 317.89812,194.20932 a 79.64286,79.64286 0 0 1 -136.51371,-2.38286 l 68.97274,-39.82142 z"
+       sodipodi:ry="79.64286"
+       sodipodi:rx="79.64286"
+       sodipodi:cy="152.00504"
+       sodipodi:cx="250.35715"
+       id="path3779-9-1-34-2"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       transform="matrix(-1,0,0,1,423.66072,164.10715)" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 121.78572,347.71932 c 27.47833,37.9228 73.84073,35.52916 108.21428,3.21429"
+       id="path4417-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 175.71429,252.36218 c 45.17969,12.19595 56.69027,45.75883 52.5,89.28571"
+       id="path4415-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 123.21428,340.21932 c -9.44058,-51.7873 13.51269,-77.59604 47.14286,-88.21428"
+       id="path4375-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-137.18251"
+     inkscape:cy="97.52171"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1791"
+     inkscape:window-height="1200"
+     inkscape:window-x="419"
+     inkscape:window-y="141"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-447.52906px"
+       originy="-653.6911px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-447.52906,-234.62469)">
+    <path
+       transform="matrix(-1,0,0,1,780.26121,166.51252)"
+       sodipodi:type="arc"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#666666;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3779-9-1-34-5"
+       sodipodi:cx="250.35715"
+       sodipodi:cy="152.00504"
+       sodipodi:rx="79.64286"
+       sodipodi:ry="79.64286"
+       d="m 317.89812,194.20932 c -23.30878,37.30185 -72.44341,48.64548 -109.74526,25.33669 -11.05732,-6.90938 -20.24918,-16.42783 -26.76845,-27.71955 l 68.97274,-39.82142 z"
+       sodipodi:start="0.55850536"
+       sodipodi:end="2.6179939" />
+    <path
+       transform="matrix(-1,0,0,1,782.67193,162.76252)"
+       sodipodi:type="arc"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#666666;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3779-9-1-8-5-4"
+       sodipodi:cx="250.35715"
+       sodipodi:cy="152.00504"
+       sodipodi:rx="79.64286"
+       sodipodi:ry="79.64286"
+       d="m 181.38441,191.82646 c -21.99277,-38.09259 -8.94128,-86.8014 29.15131,-108.794166 12.10724,-6.990121 25.84119,-10.670119 39.82143,-10.670119 l 0,79.642865 z"
+       sodipodi:start="2.6179939"
+       sodipodi:end="4.712389" />
+    <path
+       transform="matrix(-1,0,0,1,778.02907,162.76252)"
+       sodipodi:type="arc"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#666666;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3779-9-1-8-3-3-0"
+       sodipodi:cx="250.35715"
+       sodipodi:cy="152.00504"
+       sodipodi:rx="79.64286"
+       sodipodi:ry="79.64286"
+       d="m 250.35715,72.362175 c 43.98554,1e-6 79.64286,35.657325 79.64286,79.642865 0,14.9241 -4.19332,29.54793 -12.10189,42.20428 l -67.54097,-42.20428 z"
+       sodipodi:start="4.712389"
+       sodipodi:end="6.8416907" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 479.81477,342.62469 c -9.44058,-51.7873 13.51269,-77.59604 47.14286,-88.21428"
+       id="path4495"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 532.31478,254.76755 c 45.17969,12.19595 56.69027,45.75883 52.5,89.28571"
+       id="path4499"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 478.38621,350.12469 c 27.47833,37.9228 73.84073,35.52916 108.21428,3.21429"
+       id="path4501"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="531.23541"
+       y="353.33661"
+       id="text4544"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4546"
+         x="531.23541"
+         y="353.33661"
+         style="font-size:11px;font-weight:bold;fill:#0066ff;-inkscape-font-specification:Liberation Serif Bold">Experiment</tspan><tspan
+         sodipodi:role="line"
+         x="531.23541"
+         y="364.18057"
+         id="tspan4548"
+         style="font-size:8px;text-align:center;text-anchor:middle">measurements, observations,</tspan><tspan
+         sodipodi:role="line"
+         x="531.23541"
+         y="374.18057"
+         id="tspan4562"
+         style="font-size:8px;text-align:center;text-anchor:middle">collect data, test hypothesis,</tspan><tspan
+         sodipodi:role="line"
+         x="531.23541"
+         y="384.18057"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan4613"><tspan
+           style="font-size:8px"
+           id="tspan4615">...</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="531.23541"
+         y="394.18057"
+         id="tspan4552" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="466.14908"
+       y="276.60513"
+       id="text4544-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4546-5"
+         x="466.14908"
+         y="276.60513"
+         style="font-size:11px;font-weight:bold;text-align:start;text-anchor:start;fill:#0066ff;-inkscape-font-specification:Liberation Serif Bold">Theory</tspan><tspan
+         sodipodi:role="line"
+         x="466.14908"
+         y="287.4491"
+         id="tspan4562-0"
+         style="font-size:8px;text-align:start;text-anchor:start"> develop models,</tspan><tspan
+         sodipodi:role="line"
+         x="466.14908"
+         y="297.4491"
+         style="font-size:8px;text-align:start;text-anchor:start"
+         id="tspan4605"> hopothesis,</tspan><tspan
+         sodipodi:role="line"
+         x="466.14908"
+         y="307.4491"
+         style="font-size:8px;text-align:start;text-anchor:start"
+         id="tspan4607"> predictions, </tspan><tspan
+         sodipodi:role="line"
+         x="466.14908"
+         y="317.4491"
+         style="font-size:8px;text-align:start;text-anchor:start"
+         id="tspan4611"> conclusions,</tspan><tspan
+         sodipodi:role="line"
+         x="466.14908"
+         y="327.4491"
+         style="font-size:8px;text-align:start;text-anchor:start"
+         id="tspan4676"> ...</tspan><tspan
+         sodipodi:role="line"
+         x="466.14908"
+         y="337.4491"
+         id="tspan4552-8"
+         style="font-size:8px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="535.32928"
+       y="276.60513"
+       id="text4544-9-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4546-5-7"
+         x="535.32928"
+         y="276.60513"
+         style="font-size:11px;font-weight:bold;text-align:start;text-anchor:start;fill:#0066ff;-inkscape-font-specification:Liberation Serif Bold">Computation</tspan><tspan
+         sodipodi:role="line"
+         x="535.32928"
+         y="287.4491"
+         style="font-size:8px;text-align:start;text-anchor:start;fill:#1c2422"
+         id="tspan4660">  simulate models,</tspan><tspan
+         sodipodi:role="line"
+         x="535.32928"
+         y="297.4491"
+         style="font-size:8px;text-align:start;text-anchor:start;fill:#1c2422"
+         id="tspan4662">  test hypothesis,</tspan><tspan
+         sodipodi:role="line"
+         x="535.32928"
+         y="307.4491"
+         id="tspan4552-8-6"
+         style="font-size:8px;text-align:start;text-anchor:start;fill:#1c2422">    observations,</tspan><tspan
+         sodipodi:role="line"
+         x="535.32928"
+         y="317.4491"
+         style="font-size:8px;text-align:start;text-anchor:start;fill:#1c2422"
+         id="tspan4674">        visualizations, </tspan><tspan
+         sodipodi:role="line"
+         x="535.32928"
+         y="327.4491"
+         style="font-size:8px;text-align:start;text-anchor:start;fill:#1c2422"
+         id="tspan4678">              ...</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4680"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"><flowRegion
+         id="flowRegion4682"><rect
+           id="rect4684"
+           width="296.42856"
+           height="350"
+           x="-3.5714285"
+           y="125.21932" /></flowRegion><flowPara
+         id="flowPara4686"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4688"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"><flowRegion
+         id="flowRegion4690"><rect
+           id="rect4692"
+           width="271.42856"
+           height="291.42856"
+           x="60.714287"
+           y="168.07646" /></flowRegion><flowPara
+         id="flowPara4694"></flowPara></flowRoot>  </g>
+</svg>

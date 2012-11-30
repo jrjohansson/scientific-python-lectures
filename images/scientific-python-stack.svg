@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="130.75"
+   height="145.75002"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="scientific-python-stack.svg"
+   inkscape:export-filename="scientific-python-stack.png"
+   inkscape:export-xdpi="344.17001"
+   inkscape:export-ydpi="344.17001">
+  <defs
+     id="defs4">
+    <path
+       sodipodi:end="2.6179939"
+       sodipodi:start="0.55850536"
+       d="m 317.89812,194.20932 a 79.64286,79.64286 0 0 1 -136.51371,-2.38286 l 68.97274,-39.82142 z"
+       sodipodi:ry="79.64286"
+       sodipodi:rx="79.64286"
+       sodipodi:cy="152.00504"
+       sodipodi:cx="250.35715"
+       id="path3779-9-1-34-2"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       transform="matrix(-1,0,0,1,423.66072,164.10715)" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 121.78572,347.71932 c 27.47833,37.9228 73.84073,35.52916 108.21428,3.21429"
+       id="path4417-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 175.71429,252.36218 c 45.17969,12.19595 56.69027,45.75883 52.5,89.28571"
+       id="path4415-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 123.21428,340.21932 c -9.44058,-51.7873 13.51269,-77.59604 47.14286,-88.21428"
+       id="path4375-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="38.576964"
+     inkscape:cy="52.333249"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1791"
+     inkscape:window-height="1200"
+     inkscape:window-x="419"
+     inkscape:window-y="141"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-299.625px"
+       originy="-794.62499px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-299.625,-111.98717)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4680"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"><flowRegion
+         id="flowRegion4682"><rect
+           id="rect4684"
+           width="296.42856"
+           height="350"
+           x="-3.5714285"
+           y="125.21932" /></flowRegion><flowPara
+         id="flowPara4686" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4688"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"><flowRegion
+         id="flowRegion4690"><rect
+           id="rect4692"
+           width="271.42856"
+           height="291.42856"
+           x="60.714287"
+           y="168.07646" /></flowRegion><flowPara
+         id="flowPara4694" /></flowRoot>    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3210"
+       width="40"
+       height="25"
+       x="345"
+       y="172.36218"
+       rx="2" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3210-4"
+       width="40"
+       height="25"
+       x="390"
+       y="172.36218"
+       rx="2" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3210-4-8"
+       width="85"
+       height="25"
+       x="345"
+       y="202.36218"
+       rx="2" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3210-3"
+       width="40"
+       height="54.999992"
+       x="300"
+       y="172.36218"
+       rx="2" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3210-4-8-7"
+       width="130"
+       height="25"
+       x="300"
+       y="232.36218"
+       rx="2" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3210-4-8-7-7"
+       width="130"
+       height="25"
+       x="300"
+       y="142.36218"
+       rx="2" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3210-4-8-7-7-3"
+       width="130"
+       height="25"
+       x="300"
+       y="112.36217"
+       rx="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="364.99414"
+       y="243.57697"
+       id="text4544-9-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4546-5-8"
+         x="364.99414"
+         y="243.57697"
+         style="font-size:8px;font-weight:bold;text-align:center;text-anchor:middle;fill:#0066ff;-inkscape-font-specification:Liberation Serif Bold">Python</tspan><tspan
+         sodipodi:role="line"
+         x="364.99414"
+         y="251.6396"
+         id="tspan4552-8-0"
+         style="font-size:6px;text-align:center;text-anchor:middle">Lecture 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="387.46289"
+       y="213.42072"
+       id="text4544-9-8-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4546-5-8-9"
+         x="387.46289"
+         y="213.42072"
+         style="font-size:8px;font-weight:bold;text-align:center;text-anchor:middle;fill:#0066ff;-inkscape-font-specification:Liberation Serif Bold">Numpy</tspan><tspan
+         sodipodi:role="line"
+         x="387.46289"
+         y="221.48335"
+         id="tspan4552-8-0-5"
+         style="font-size:6px;text-align:center;text-anchor:middle">Lecture 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="365.03076"
+       y="183.57697"
+       id="text4544-9-8-5-0-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4546-5-8-9-7-5"
+         x="365.03076"
+         y="183.57697"
+         style="font-size:8px;font-weight:bold;text-align:center;text-anchor:middle;fill:#0066ff;-inkscape-font-specification:Liberation Serif Bold">Scipy</tspan><tspan
+         sodipodi:role="line"
+         x="365.03076"
+         y="191.6396"
+         id="tspan4552-8-0-5-6-1"
+         style="font-size:6px;text-align:center;text-anchor:middle">Lecture 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="410.05664"
+       y="183.57697"
+       id="text4544-9-8-5-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4546-5-8-9-7"
+         x="410.05664"
+         y="183.57697"
+         style="font-size:8px;font-weight:bold;text-align:center;text-anchor:middle;fill:#0066ff;-inkscape-font-specification:Liberation Serif Bold">matpotlib</tspan><tspan
+         sodipodi:role="line"
+         x="410.05664"
+         y="191.6396"
+         id="tspan4552-8-0-5-6"
+         style="font-size:6px;text-align:center;text-anchor:middle">Lecture 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="319.82617"
+       y="198.45"
+       id="text4544-9-8-5-0-9-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4546-5-8-9-7-5-9"
+         x="319.82617"
+         y="198.45"
+         style="font-size:8px;font-weight:bold;text-align:center;text-anchor:middle;fill:#0066ff;-inkscape-font-specification:Liberation Serif Bold">Sympy</tspan><tspan
+         sodipodi:role="line"
+         x="319.82617"
+         y="206.51263"
+         id="tspan4552-8-0-5-6-1-6"
+         style="font-size:6px;text-align:center;text-anchor:middle">Lecture 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="364.90039"
+       y="152.9588"
+       id="text4544-9-8-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4546-5-8-91"
+         x="364.90039"
+         y="152.9588"
+         style="font-size:8px;font-weight:bold;text-align:center;text-anchor:middle;fill:#0066ff;-inkscape-font-specification:Liberation Serif Bold">Other packages and toolboxes</tspan><tspan
+         sodipodi:role="line"
+         x="364.90039"
+         y="161.02144"
+         id="tspan4552-8-0-2"
+         style="font-size:6px;text-align:center;text-anchor:middle">for example QuTiP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="364.99609"
+       y="126.5985"
+       id="text4544-9-8-9-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="364.99609"
+         y="126.5985"
+         id="tspan4552-8-0-2-0"
+         style="font-size:8px;font-weight:bold;text-align:center;text-anchor:middle;fill:#0066ff;-inkscape-font-specification:Liberation Serif Bold">User programs</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3370"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(447.52906,234.62469)"><flowRegion
+         id="flowRegion3372"><rect
+           id="rect3374"
+           width="277.79196"
+           height="474.7717"
+           x="-11.111678"
+           y="-223.85219" /></flowRegion><flowPara
+         id="flowPara3376"></flowPara></flowRoot>  </g>
+</svg>
