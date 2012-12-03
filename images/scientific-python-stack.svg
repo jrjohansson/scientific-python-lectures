@@ -67,9 +67,9 @@
      showguides="false"
      inkscape:snap-global="true"
      inkscape:window-width="1791"
-     inkscape:window-height="1200"
-     inkscape:window-x="419"
-     inkscape:window-y="141"
+     inkscape:window-height="1027"
+     inkscape:window-x="127"
+     inkscape:window-y="24"
      inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -240,7 +240,7 @@
          id="tspan4546-5-8-9-7"
          x="410.05664"
          y="183.57697"
-         style="font-size:8px;font-weight:bold;text-align:center;text-anchor:middle;fill:#0066ff;-inkscape-font-specification:Liberation Serif Bold">matpotlib</tspan><tspan
+         style="font-size:8px;font-weight:bold;text-align:center;text-anchor:middle;fill:#0066ff;-inkscape-font-specification:Liberation Serif Bold">matplotlib</tspan><tspan
          sodipodi:role="line"
          x="410.05664"
          y="191.6396"
@@ -303,5 +303,5 @@
            height="474.7717"
            x="-11.111678"
            y="-223.85219" /></flowRegion><flowPara
-         id="flowPara3376"></flowPara></flowRoot>  </g>
+         id="flowPara3376" /></flowRoot>  </g>
 </svg>
