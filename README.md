@@ -20,5 +20,7 @@ Use the following links:
 * [Lecture-3 Scipy - Library of scientific algorithms](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-3-Scipy.ipynb)
 * [Lecture-4 Matplotlib - 2D and 3D plotting](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-4-Matplotlib.ipynb)
 * [Lecture-5 Sympy - Symbolic algebra](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-5-Sympy.ipynb)
-* [Lecture-6 C and Fortran integration](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-6A-Fortran-and-C.ipynb)
+* [Lecture-6A C and Fortran integration](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-6A-Fortran-and-C.ipynb)
+* [Lecture-6B HPC](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-6B-HPC.ipynb)
+* [Lecture-7 Revision Control Software](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-7-Revision-Control-Software.ipynb)
 
