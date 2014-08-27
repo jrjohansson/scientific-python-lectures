@@ -24,6 +24,8 @@ Use the following links:
 * [Lecture-6B HPC](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-6B-HPC.ipynb)
 * [Lecture-7 Revision Control Software](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-7-Revision-Control-Software.ipynb)
 
+A PDF file containing all the lectures is available here: [Scientific Computing with Python](http://raw.github.com/jrjohansson/scientific-python-lectures/master/Scientific-Computing-with-Python.pdf)
+
 
 License
 =======
