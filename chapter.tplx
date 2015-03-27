@@ -144,7 +144,7 @@
 \par%
 ((* block extra_input_spacing *))((* endblock extra_input_spacing *))%
 \vspace{-1\smallerfontscale}%
-((( cell.input | highlight2latex )))%
+((( cell.source | highlight2latex )))%
 \par%
 \vspace{-1\smallerfontscale}}%
 \end{addmargin}
