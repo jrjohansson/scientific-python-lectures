@@ -4,7 +4,7 @@
 .ipynb.tex:
 	ipython nbconvert --to latex  $<
 
-all: latexfiles buildpdf
+all: latexfiles strip buildpdf
 
 latexfiles:
 	ipython nbconvert --to latex Lecture-0-Scientific-Computing-with-Python.ipynb
@@ -17,6 +17,8 @@ latexfiles:
 	ipython nbconvert --to latex Lecture-6B-HPC.ipynb
 	ipython nbconvert --to latex Lecture-7-Revision-Control-Software.ipynb
 
+strip:
+	./strip-preambles.py
 
 buildpdf: latexfiles
 	pdflatex Scientific-Computing-with-Python.tex

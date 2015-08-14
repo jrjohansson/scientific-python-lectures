@@ -1,6 +1,6 @@
 \documentclass{report}    
 \usepackage{graphicx}  % Used to insert images
-\usepackage{adjustbox} % Used to constrain images to a maximum size 
+\usepackage[Export]{adjustbox} % Used to constrain images to a maximum size 
 \usepackage{color}     % Allow colors to be defined
 \usepackage{enumerate} % Needed for markdown enumerations to work
 \usepackage{geometry}  % Used to adjust the document margins
@@ -17,6 +17,7 @@
 \usepackage{scrextend}
 \usepackage{needspace}
 \usepackage{framed}
+\adjustboxset{max width=0.9\textwidth}
 
 \definecolor{orange}{cmyk}{0,0.4,0.8,0.2}
 \definecolor{darkorange}{rgb}{.71,0.21,0.01}
@@ -280,38 +281,10 @@ In[#1]:}%
 \geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
 
 \title{Introduction to Scientific Computing in Python}
-\author{Robert Johansson}
+\author{Continuum Analytics and Robert Johansson}
 
 \begin{document}
 \maketitle
 
 \tableofcontents
 
-\newpage
-\input{Lecture-0-Scientific-Computing-with-Python}
-
-\newpage
-\input{Lecture-1-Introduction-to-Python-Programming}
-
-\newpage
-\input{Lecture-2-Numpy}
-
-\newpage
-\input{Lecture-3-Scipy}
-
-\newpage
-\input{Lecture-4-Matplotlib}
-
-\newpage
-\input{Lecture-5-Sympy}
-
-\newpage
-\input{Lecture-6A-Fortran-and-C}
-
-\newpage
-\input{Lecture-6B-HPC}
-
-\newpage
-\input{Lecture-7-Revision-Control-Software}
-
-\end{document}
