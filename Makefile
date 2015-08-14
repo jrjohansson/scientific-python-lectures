@@ -1,31 +1,21 @@
 #
 # Build a PDF with all the notebooks 
 #
-TEMPLATE=chapter
-NOTEBOOKS=Lecture-0-Scientific-Computing-with-Python.ipynb \
-          Lecture-1-Introduction-to-Python-Programming.ipynb \
-          Lecture-2-Numpy.ipynb Lecture-3-Scipy.ipynb \
-          Lecture-4-Matplotlib.ipynb Lecture-5-Sympy.ipynb \
-          Lecture-6A-Fortran-and-C.ipynb Lecture-6B-HPC.ipynb \
-          Lecture-7-Revision-Control-Software.ipynb
-
-LATEXFILES=$(NOTEBOOKS:.ipynb=.tex)
-
 .ipynb.tex:
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) $<
+	ipython nbconvert --to latex  $<
 
-#all: $(LATEXFILES) buildpdf
 all: latexfiles buildpdf
 
 latexfiles:
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-0-Scientific-Computing-with-Python.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-1-Introduction-to-Python-Programming.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-2-Numpy.ipynb Lecture-3-Scipy.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-4-Matplotlib.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-5-Sympy.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-6A-Fortran-and-C.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-6B-HPC.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-7-Revision-Control-Software.ipynb
+	ipython nbconvert --to latex Lecture-0-Scientific-Computing-with-Python.ipynb
+	ipython nbconvert --to latex Lecture-1-Introduction-to-Python-Programming.ipynb
+	ipython nbconvert --to latex Lecture-2-Numpy.ipynb 
+	ipython nbconvert --to latex Lecture-3-Scipy.ipynb
+	ipython nbconvert --to latex Lecture-4-Matplotlib.ipynb
+	ipython nbconvert --to latex Lecture-5-Sympy.ipynb
+	ipython nbconvert --to latex Lecture-6A-Fortran-and-C.ipynb
+	ipython nbconvert --to latex Lecture-6B-HPC.ipynb
+	ipython nbconvert --to latex Lecture-7-Revision-Control-Software.ipynb
 
 
 buildpdf: latexfiles
