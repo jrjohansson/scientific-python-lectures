@@ -12,21 +12,14 @@ NOTEBOOKS=Lecture-0-Scientific-Computing-with-Python.ipynb \
 LATEXFILES=$(NOTEBOOKS:.ipynb=.tex)
 
 .ipynb.tex:
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) $<
+	jupyter nbconvert --to latex --template $(TEMPLATE) $<
 
-#all: $(LATEXFILES) buildpdf
 all: latexfiles buildpdf
 
 latexfiles:
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-0-Scientific-Computing-with-Python.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-1-Introduction-to-Python-Programming.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-2-Numpy.ipynb Lecture-3-Scipy.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-4-Matplotlib.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-5-Sympy.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-6A-Fortran-and-C.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-6B-HPC.ipynb
-	ipy3-devel nbconvert --to latex --template $(TEMPLATE) Lecture-7-Revision-Control-Software.ipynb
-
+	for notebook in $(NOTEBOOKS) ; do \
+		jupyter nbconvert --to latex --template $(TEMPLATE) $$notebook ; \
+	done
 
 buildpdf: latexfiles
 	pdflatex Scientific-Computing-with-Python.tex
