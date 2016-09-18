@@ -9,7 +9,7 @@ To open these notebooks in IPython, download the files to a directory on your co
 
 This will open a new page in your browser with a list of the available notebooks.
 
-Should this error `[TerminalIPythonApp] WARNING | File not found: u'notebook'` pop up, please install Jupyter by following the instructions [here](http://jupyter.readthedocs.io/en/latest/install.html) and execute the following command to run the notebook:
+Should this error `[TerminalIPythonApp] WARNING | File not found: u'notebook'` pop up, please install Jupyter by following the [instructions](http://jupyter.readthedocs.io/en/latest/install.html) and execute the following command to run the notebook:
 
     $ jupyter notebook
 
