@@ -57,3 +57,11 @@ hello.py
 hellofortran.f
 run_hello_c.py
 setup.py
+
+mpi-matrix-vector.py
+mpi-numpy-array.py
+mpi-psum.py
+mpitest.py
+opencl-dense-mv.py
+random-vector.npy
+
