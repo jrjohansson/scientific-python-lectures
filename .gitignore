@@ -44,3 +44,16 @@ random-matrix.npy
 filename.png
 animation.mp4
 test.svg
+
+cy_dcumsum.c
+cy_dcumsum.pyx
+dcumsum.f
+dprod.f
+dprod.pyf
+functions.c
+functions.o
+functions.py
+hello.py
+hellofortran.f
+run_hello_c.py
+setup.py
