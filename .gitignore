@@ -39,3 +39,5 @@ nosetests.xml
 
 # Notebook created
 mymodule.py
+random-matrix.csv
+random-matrix.npy
