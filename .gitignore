@@ -41,3 +41,6 @@ nosetests.xml
 mymodule.py
 random-matrix.csv
 random-matrix.npy
+filename.png
+animation.mp4
+test.svg
