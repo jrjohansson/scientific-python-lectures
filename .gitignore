@@ -36,3 +36,6 @@ nosetests.xml
 
 # Jupyter
 .ipynb_checkpoints/*
+
+# Notebook created
+mymodule.py
