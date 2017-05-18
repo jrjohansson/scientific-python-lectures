@@ -1,3 +1,5 @@
+envs/*
+
 *.py[cod]
 
 # C extensions

@@ -1,0 +1,77 @@
+# This is an Anaconda project file.
+#
+# Here you can describe your project and how to run it.
+# Use `anaconda-project run` to run the project.
+# The file is in YAML format, please see http://www.yaml.org/start.html for more.
+#
+
+#
+# Set the 'name' key to name your project
+#
+name: scientific-python-lectures
+#
+# Set the 'icon' key to give your project an icon
+#
+icon:
+#
+# In the commands section, list your runnable scripts, notebooks, and other code.
+# Use `anaconda-project add-command` to add commands.
+#
+commands:
+  default:
+    unix: "jupyter notebook"
+    windows: "jupyter notebook"
+#
+# In the variables section, list any environment variables your code depends on.
+# Use `anaconda-project add-variable` to add variables.
+#
+variables: {}
+#
+# In the services section, list any services that should be
+# available before your code runs.
+# Use `anaconda-project add-service` to add services.
+#
+services: {}
+#
+# In the downloads section, list any URLs to download to local files
+# before your code runs.
+# Use `anaconda-project add-download` to add downloads.
+#
+downloads: {}
+#
+# In the packages section, list any packages that must be installed
+# before your code runs.
+# Use `anaconda-project add-packages` to add packages.
+#
+packages: []
+#
+# In the channels section, list any Conda channel URLs to be searched
+# for packages.
+#
+# For example,
+#
+# channels:
+#    - https://conda.anaconda.org/asmeurer
+#
+channels: []
+#
+# You can define multiple, named environment specs.
+# Each inherits any global packages or channels,
+# but can have its own unique ones also.
+# Use `anaconda-project add-env-spec` to add environment specs.
+#
+env_specs:
+  default:
+    packages:
+      - python=3.6
+      - notebook=5.0.0
+      - ipykernel=4.6.1
+      - numpy=1.12.1
+      - scipy=0.19.0
+      - sympy=1.0
+      - matplotlib=2.0.2
+      - ipywidgets=6.0.0
+      - ffmpeg=3.2.4
+      - mingw=4.7
+    channels:
+      - conda-forge
