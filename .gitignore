@@ -65,3 +65,4 @@ mpitest.py
 opencl-dense-mv.py
 random-vector.npy
 
+git_testing/*
