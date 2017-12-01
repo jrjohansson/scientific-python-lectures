@@ -1,6 +1,8 @@
 Lectures on scientific computing with Python
 ============================================
 
+<a href="https://notebooks.azure.com/import/gh/jrjohansson/scientific-python-lectures"><img src="https://notebooks.azure.com/launch.png" /></a>
+
 A set of lectures on scientific computing with Python, using IPython notebooks.
 
 To open these notebooks in IPython, download the files to a directory on your computer and from that directory run:
